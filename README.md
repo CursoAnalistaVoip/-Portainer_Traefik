@@ -41,3 +41,7 @@ sudo docker compose up -d
 
 ![image](https://github.com/CursoAnalistaVoip/-Portainer_Traefik/assets/102430464/1f919ff4-9fb0-4f99-a03e-bcbda7931884)
 
+
+![image](https://github.com/CursoAnalistaVoip/-Portainer_Traefik/assets/102430464/3c934261-c6bd-454f-bcb8-4472526627f4)
+
+
